@@ -1,0 +1,39 @@
+{
+  "name": "bluetooth-assigned-numbers",
+  "homepage": "https://github.com/reelyactive/bluetooth-assigned-numbers/",
+  "author": {
+    "name": "reelyActive",
+    "email": "info@reelyactive.com"
+  },
+  "description": "Bluetooth Assigned Numbers as JavaScript Maps to facilitate lookup.  We believe in an open Internet of Things.",
+  "keywords": [
+    "reelyActive",
+    "Bluetooth Low Energy",
+    "Bluetooth Assigned Numbers"
+  ],
+  "version": "1.0.0",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "main": "./lib/converter.js",
+  "scripts": {
+    "create-libraries": "node bin/create-lookups"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/reelyactive/bluetooth-assigned-numbers.git"
+  },
+  "dependencies": {
+    "js-yaml": "^4.2.0"
+  },
+  "devDependencies": {},
+  "bugs": {
+    "url": "https://github.com/reelyactive/bluetooth-assigned-numbers/issues"
+  },
+  "contributors": [
+    {
+      "name": "Jeffrey Dungen"
+    }
+  ],
+  "license": "MIT"
+}

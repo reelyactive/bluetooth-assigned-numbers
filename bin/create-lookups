@@ -1,0 +1,21 @@
+#!/usr/bin/env node
+
+const converter = require('../lib/converter.js');
+
+// Company Identifiers
+converter.yamlToMap('src/company_identifiers.yaml',
+                    'company_identifiers',
+                    'bluetoothcompanyidentifiers.js',
+                    'BLUETOOTH_COMPANY_IDENTIFIERS');
+
+// Member UUIDs
+converter.yamlToMap('src/member_uuids.yaml',
+                    'uuids',
+                    'bluetoothmemberuuids.js',
+                    'BLUETOOTH_MEMBER_UUIDS');
+
+// Characteristic UUIDs
+converter.yamlToMap('src/characteristic_uuids.yaml',
+                    'uuids',
+                    'bluetoothcharacteristicuuids.js',
+                    'BLUETOOTH_CHARACTERISTIC_UUIDS');
