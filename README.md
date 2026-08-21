@@ -54,6 +54,16 @@ From the root folder of this repository, execute the following to generate updat
     npm run create-lookups
 
 
+CSV files
+---------
+
+It is also possible to create CSV file representations to facilitate applications requiring human-readable/manipulable data.
+
+From the root folder of this repository, execute the following to generate updated lookup scripts in the __/dist__ folder:
+
+    npm run create-csv
+
+
 Contributing
 ------------
 

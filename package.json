@@ -11,13 +11,14 @@
     "Bluetooth Low Energy",
     "Bluetooth Assigned Numbers"
   ],
-  "version": "1.0.1",
+  "version": "1.0.2",
   "engines": {
     "node": ">=18.0.0"
   },
   "main": "./lib/converter.js",
   "scripts": {
-    "create-lookups": "node bin/create-lookups"
+    "create-lookups": "node bin/create-lookups",
+    "create-csv": "node bin/create-csv"
   },
   "repository": {
     "type": "git",

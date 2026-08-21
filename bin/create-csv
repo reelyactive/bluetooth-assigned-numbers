@@ -1,0 +1,18 @@
+#!/usr/bin/env node
+
+const converter = require('../lib/converter.js');
+
+// Company Identifiers
+converter.yamlToCSV('src/company_identifiers.yaml',
+                    'company_identifiers',
+                    'bluetoothcompanyidentifiers.csv');
+
+// Member UUIDs
+converter.yamlToCSV('src/member_uuids.yaml',
+                    'uuids',
+                    'bluetoothmemberuuids.csv');
+
+// Characteristic UUIDs
+converter.yamlToCSV('src/characteristic_uuids.yaml',
+                    'uuids',
+                    'bluetoothcharacteristicuuids.csv');
