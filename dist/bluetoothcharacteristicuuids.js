@@ -502,5 +502,12 @@ const BLUETOOTH_CHARACTERISTIC_UUIDS = new Map([
 [0x2c37,"Voice Assistant Supported Languages"],
 [0x2c38,"Voice Assistant Supported Features"],
 [0x2c39,"HID SCI Mode"],
-[0x2c3a,"HID SCI Information"]
+[0x2c3a,"HID SCI Information"],
+[0x2c3b,"Tire Pressure"],
+[0x2c3c,"Tire Temperature"],
+[0x2c3d,"Tire Acceleration"],
+[0x2c3e,"TPMS Properties"],
+[0x2c3f,"TPMS Duty Cycle"],
+[0x2c40,"TPMS Position"],
+[0x2c41,"TPMS Signing Key"]
 ]);

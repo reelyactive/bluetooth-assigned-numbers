@@ -1,5 +1,200 @@
 company_identifiers:
 
+  - value: 0x110D
+    name: 'ARETA AI INC.'
+
+  - value: 0x110C
+    name: 'rescuetrack GmbH'
+
+  - value: 0x110B
+    name: 'SIGMA CORPORATION'
+
+  - value: 0x110A
+    name: 'OnRace Motorsports'
+
+  - value: 0x1109
+    name: 'Hamodaz Corporation'
+
+  - value: 0x1108
+    name: 'BEMER Int. AG'
+
+  - value: 0x1107
+    name: 'Optrel AG'
+
+  - value: 0x1106
+    name: 'Flicfit inc.'
+
+  - value: 0x1105
+    name: 'Cirrus Design Corporation'
+
+  - value: 0x1104
+    name: 'Daiichi Elektronik Sanayi ve Ticaret. A.S.'
+
+  - value: 0x1103
+    name: 'BRISANT SECURE LTD'
+
+  - value: 0x1102
+    name: 'Temple Private Limited'
+
+  - value: 0x1101
+    name: 'Nearfaces UG (haftungsbeschränkt)'
+
+  - value: 0x1100
+    name: 'miThings'
+
+  - value: 0x10FF
+    name: 'Sonus Faber spa'
+
+  - value: 0x10FE
+    name: 'Daisen Electronic Industrial Co., Ltd.'
+
+  - value: 0x10FD
+    name: 'Neurabody Inc.'
+
+  - value: 0x10FC
+    name: 'CITECH CO.,LTD.'
+
+  - value: 0x10FB
+    name: 'Hydratune Australia Pty Ltd'
+
+  - value: 0x10FA
+    name: 'QPlay Ltd'
+
+  - value: 0x10F9
+    name: 'Even Realities Ltd.'
+
+  - value: 0x10F8
+    name: 'IONLINE INTERNET SERVICE PROVIDER'
+
+  - value: 0x10F7
+    name: 'HEX INNOVATE (UK) LIMITED'
+
+  - value: 0x10F6
+    name: 'Pressure Systems International, Inc.'
+
+  - value: 0x10F5
+    name: 'Shenzhen DeepX Technology Co., Ltd.'
+
+  - value: 0x10F4
+    name: 'SUPERARK LTD'
+
+  - value: 0x10F3
+    name: 'EURODIMA GmbH & CoKG'
+
+  - value: 0x10F2
+    name: 'CHIGEE TECHNOLOGY CO., LTD.'
+
+  - value: 0x10F1
+    name: 'Ralston Instruments, LLC'
+
+  - value: 0x10F0
+    name: 'RFID N PRINT PTY LTD'
+
+  - value: 0x10EF
+    name: 'Keto-Check Inc.'
+
+  - value: 0x10EE
+    name: 'Shanghai XYLink Limited Corporation'
+
+  - value: 0x10ED
+    name: 'BRITA SE'
+
+  - value: 0x10EC
+    name: 'ZELP LTD'
+
+  - value: 0x10EB
+    name: 'Fontaine Fifth Wheel Company'
+
+  - value: 0x10EA
+    name: 'Guangdong Youhong Medical Technology Co.,Ltd'
+
+  - value: 0x10E9
+    name: 'Hankook Tire & Technology Co., Ltd.'
+
+  - value: 0x10E8
+    name: 'Liontron GmbH & Co. KG'
+
+  - value: 0x10E7
+    name: 'Placenet Internet of Places S.L.'
+
+  - value: 0x10E6
+    name: 'KWANG YANG MOTOR CO., LTD.'
+
+  - value: 0x10E5
+    name: 'Durin, inc.'
+
+  - value: 0x10E4
+    name: 'Smart Technologies ULC'
+
+  - value: 0x10E3
+    name: 'Vybe Audio LLC'
+
+  - value: 0x10E2
+    name: 'CAREHAWK INC.'
+
+  - value: 0x10E1
+    name: 'Neurable, Inc'
+
+  - value: 0x10E0
+    name: 'Arnold & Richter Cine Technik GmbH & Co. Betriebs KG'
+
+  - value: 0x10DF
+    name: 'Hawkeye Surgical Lighting LLC'
+
+  - value: 0x10DE
+    name: 'Gastron Co.,Ltd'
+
+  - value: 0x10DD
+    name: 'Triumph Designs Ltd'
+
+  - value: 0x10DC
+    name: 'Spectra Precision (Kaiserslautern) GmbH'
+
+  - value: 0x10DB
+    name: 'SZ Avinox Innovation Co., Ltd.'
+
+  - value: 0x10DA
+    name: 'SKAIChips Co.,Ltd'
+
+  - value: 0x10D9
+    name: 'Liebherr-Hausgeraete GmbH'
+
+  - value: 0x10D8
+    name: 'Westfalen Aktiengesellschaft'
+
+  - value: 0x10D7
+    name: 'Arashi Vision Inc.'
+
+  - value: 0x10D6
+    name: 'UltronSMART Inc.'
+
+  - value: 0x10D5
+    name: 'IntelliDesign Pty Ltd'
+
+  - value: 0x10D4
+    name: 'Victor Hasselblad AB'
+
+  - value: 0x10D3
+    name: 'AGCO Corporation'
+
+  - value: 0x10D2
+    name: 'Hehku Company Oy'
+
+  - value: 0x10D1
+    name: 'Acer Inc.'
+
+  - value: 0x10D0
+    name: 'Band24, LLC'
+
+  - value: 0x10CF
+    name: 'Tempur World, LLC'
+
+  - value: 0x10CE
+    name: 'Inito Health Inc.'
+
+  - value: 0x10CD
+    name: 'Kumho Tire'
+
   - value: 0x10CC
     name: 'Linde GmbH'
 
@@ -804,9 +999,6 @@ company_identifiers:
   - value: 0x0F61
     name: 'HyolimXE Co., Ltd.'
 
-  - value: 0x0F60
-    name: 'Quilt Systems, Inc.'
-
   - value: 0x0F5F
     name: 'ROBSON SRL'
 
@@ -875,9 +1067,6 @@ company_identifiers:
 
   - value: 0x0F49
     name: 'IYO INC.'
-
-  - value: 0x0F48
-    name: 'Shenzhen Xinfeiyi Technology Co., Ltd.'
 
   - value: 0x0F47
     name: 'Lodestar Technology Inc.'
@@ -1131,9 +1320,6 @@ company_identifiers:
   - value: 0x0EF3
     name: 'Monil AS'
 
-  - value: 0x0EF2
-    name: 'CAPTAIN BLINK'
-
   - value: 0x0EF1
     name: 'Wuxi Does IOT Co., Ltd'
 
@@ -1302,9 +1488,6 @@ company_identifiers:
   - value: 0x0EBA
     name: 'THERMY LTD'
 
-  - value: 0x0EB9
-    name: 'egojin co,.ltd'
-
   - value: 0x0EB7
     name: 'Embedded Solutions LLC'
 
@@ -1343,9 +1526,6 @@ company_identifiers:
 
   - value: 0x0EAB
     name: 'STEYR Sport GmbH'
-
-  - value: 0x0EAA
-    name: 'Hive Soundz inc.'
 
   - value: 0x0EA9
     name: 'Makichie Co., Ltd.'
@@ -1509,9 +1689,6 @@ company_identifiers:
   - value: 0x0E73
     name: 'Adventures of the Persistently Impaired (and other tales) Limited'
 
-  - value: 0x0E72
-    name: 'TOR.AI LIMITED'
-
   - value: 0x0E71
     name: 'ENABLEWEAR LLC'
 
@@ -1591,7 +1768,7 @@ company_identifiers:
     name: 'New Cosmos Electric Co., Ltd.'
 
   - value: 0x0E54
-    name: 'Relief Technologies AS'
+    name: 'After Technologies AS'
 
   - value: 0x0E53
     name: 'MINIRIG'
@@ -2268,9 +2445,6 @@ company_identifiers:
   - value: 0x0D6D
     name: 'DYNAMOX S/A'
 
-  - value: 0x0D6C
-    name: 'Ambient IoT Pty Ltd'
-
   - value: 0x0D6B
     name: 'Crane Payment Innovations, Inc.'
 
@@ -2414,9 +2588,6 @@ company_identifiers:
 
   - value: 0x0D3A
     name: 'Frost Solutions, LLC'
-
-  - value: 0x0D39
-    name: 'Systemic Games, LLC'
 
   - value: 0x0D38
     name: 'CycLock'
@@ -2583,9 +2754,6 @@ company_identifiers:
   - value: 0x0D01
     name: 'KEEPEN'
 
-  - value: 0x0CFF
-    name: 'Ergodriven Inc'
-
   - value: 0x0CFE
     name: 'Thule Group AB'
 
@@ -2653,7 +2821,7 @@ company_identifiers:
     name: 'TAG HEUER SA'
 
   - value: 0x0CE6
-    name: 'McWong International, Inc.'
+    name: 'mwConnect'
 
   - value: 0x0CE5
     name: 'Amina Distribution AS'
@@ -2772,9 +2940,6 @@ company_identifiers:
   - value: 0x0CBD
     name: 'Pricer AB'
 
-  - value: 0x0CBC
-    name: 'TROX GmbH'
-
   - value: 0x0CBB
     name: 'Emlid Tech Kft.'
 
@@ -2858,9 +3023,6 @@ company_identifiers:
 
   - value: 0x0C9F
     name: 'Dragonfly Energy Corp.'
-
-  - value: 0x0C9E
-    name: 'ECCEL CORPORATION SAS'
 
   - value: 0x0C9D
     name: 'Ribbiot, INC.'
@@ -3008,9 +3170,6 @@ company_identifiers:
 
   - value: 0x0C6A
     name: 'CONSORCIO TRUST CONTROL - NETTEL'
-
-  - value: 0x0C69
-    name: 'BLITZ electric motors. LTD'
 
   - value: 0x0C68
     name: 'Emerja Corporation'
@@ -3735,9 +3894,6 @@ company_identifiers:
   - value: 0x0B68
     name: 'Quha oy'
 
-  - value: 0x0B67
-    name: 'CleanSpace Technology Pty Ltd'
-
   - value: 0x0B66
     name: 'MITSUBISHI ELECTRIC AUTOMATION (THAILAND) COMPANY LIMITED'
 
@@ -4056,9 +4212,6 @@ company_identifiers:
   - value: 0x0AF3
     name: '701x Inc.'
 
-  - value: 0x0AF2
-    name: 'Shanghai All Link Microelectronics Co.,Ltd'
-
   - value: 0x0AF1
     name: 'CRADERS,CO.,LTD'
 
@@ -4142,9 +4295,6 @@ company_identifiers:
 
   - value: 0x0AD2
     name: 'Lautsprecher Teufel GmbH'
-
-  - value: 0x0AD1
-    name: 'EAGLE KINGDOM TECHNOLOGIES LIMITED'
 
   - value: 0x0AD0
     name: 'Nordic Strong ApS'
@@ -4434,9 +4584,6 @@ company_identifiers:
   - value: 0x0A6E
     name: 'Pac Sane Limited'
 
-  - value: 0x0A6D
-    name: 'KUUKANJYOKIN Co.,Ltd.'
-
   - value: 0x0A6C
     name: 'Pokkels'
 
@@ -4569,9 +4716,6 @@ company_identifiers:
   - value: 0x0A3B
     name: 'Galileo Technology Limited'
 
-  - value: 0x0A3A
-    name: 'Incotex Co. Ltd.'
-
   - value: 0x0A39
     name: 'BLUETICKETING SRL'
 
@@ -4671,9 +4815,6 @@ company_identifiers:
   - value: 0x0A17
     name: 'Plume Design Inc'
 
-  - value: 0x0A16
-    name: 'RIDE VISION LTD'
-
   - value: 0x0A15
     name: 'Syng Inc'
 
@@ -4703,9 +4844,6 @@ company_identifiers:
 
   - value: 0x0A0C
     name: 'Shanghai Yidian Intelligent Technology Co., Ltd.'
-
-  - value: 0x0A0B
-    name: 'SIANA Systems'
 
   - value: 0x0A0A
     name: 'Volan Technology Inc.'
@@ -5082,9 +5220,6 @@ company_identifiers:
   - value: 0x0986
     name: 'Cello Hill, LLC'
 
-  - value: 0x0985
-    name: 'Lumos Health Inc.'
-
   - value: 0x0984
     name: 'TeraTron GmbH'
 
@@ -5355,9 +5490,6 @@ company_identifiers:
   - value: 0x0925
     name: 'Yukai Engineering Inc.'
 
-  - value: 0x0924
-    name: 'Fundacion Tecnalia Research and Innovation'
-
   - value: 0x0923
     name: 'JSB TECH PTE LTD'
 
@@ -5388,9 +5520,6 @@ company_identifiers:
   - value: 0x0919
     name: 'NO SMD LIMITED'
 
-  - value: 0x0918
-    name: 'Technosphere Labs Pvt. Ltd.'
-
   - value: 0x0917
     name: 'ASR Microelectronics(ShenZhen)Co., Ltd.'
 
@@ -5420,9 +5549,6 @@ company_identifiers:
 
   - value: 0x090E
     name: 'OPTIMUSIOT TECH LLP'
-
-  - value: 0x090D
-    name: 'IOT Invent GmbH'
 
   - value: 0x090C
     name: 'Radiawave Technologies Co.,Ltd.'
@@ -6090,9 +6216,6 @@ company_identifiers:
   - value: 0x0824
     name: '8Power Limited'
 
-  - value: 0x0823
-    name: 'Nexite Ltd'
-
   - value: 0x0822
     name: 'adafruit industries'
 
@@ -6215,9 +6338,6 @@ company_identifiers:
 
   - value: 0x07FA
     name: 'Klipsch Group, Inc.'
-
-  - value: 0x07F9
-    name: 'Direct Communication Solutions, Inc.'
 
   - value: 0x07F8
     name: 'quip NYC Inc.'
@@ -6536,9 +6656,6 @@ company_identifiers:
 
   - value: 0x0788
     name: 'BubblyNet, LLC'
-
-  - value: 0x0786
-    name: 'HLP Controls Pty Limited'
 
   - value: 0x0785
     name: 'O2 Micro, Inc.'
@@ -6887,9 +7004,6 @@ company_identifiers:
 
   - value: 0x070B
     name: 'Element Products, Inc.'
-
-  - value: 0x070A
-    name: 'Huf Hülsbeck & Fürst GmbH & Co. KG'
 
   - value: 0x0709
     name: 'Carewear Corp.'
@@ -7337,9 +7451,6 @@ company_identifiers:
 
   - value: 0x0668
     name: 'Bleb Technology srl'
-
-  - value: 0x0667
-    name: 'Spark Technology Labs Inc.'
 
   - value: 0x0666
     name: 'WTO Werkzeug-Einrichtungen GmbH'
@@ -8086,7 +8197,7 @@ company_identifiers:
     name: 'Beghelli Spa'
 
   - value: 0x0563
-    name: 'Steinel Vertrieb GmbH'
+    name: 'Steinel GmbH'
 
   - value: 0x0562
     name: 'Thalmic Labs Inc.'
@@ -8351,9 +8462,6 @@ company_identifiers:
 
   - value: 0x0508
     name: 'Axes System sp. z o. o.'
-
-  - value: 0x0507
-    name: 'Yellowcog'
 
   - value: 0x0506
     name: 'Hager'
@@ -9042,9 +9150,6 @@ company_identifiers:
   - value: 0x040A
     name: 'ZF OPENMATICS s.r.o.'
 
-  - value: 0x0409
-    name: 'RYSE INC.'
-
   - value: 0x0408
     name: 'ToGetHome Inc.'
 
@@ -9113,9 +9218,6 @@ company_identifiers:
 
   - value: 0x03F0
     name: 'CLINK'
-
-  - value: 0x03EF
-    name: 'foolography GmbH'
 
   - value: 0x03EE
     name: 'CUBE TECHNOLOGIES'
@@ -9559,7 +9661,7 @@ company_identifiers:
     name: 'Sigma Designs, Inc.'
 
   - value: 0x0354
-    name: 'TOPPAN FORMS CO.,LTD.'
+    name: 'TOPPAN, Inc.'
 
   - value: 0x0353
     name: 'Alpha Audiotronics, Inc.'
@@ -9830,9 +9932,6 @@ company_identifiers:
 
   - value: 0x02ED
     name: 'HTC Corporation'
-
-  - value: 0x02EC
-    name: 'Delta Systems, Inc'
 
   - value: 0x02EB
     name: 'Ardic Technology'
@@ -10221,9 +10320,6 @@ company_identifiers:
   - value: 0x0264
     name: 'DDS, Inc.'
 
-  - value: 0x0263
-    name: 'Identiv, Inc.'
-
   - value: 0x0262
     name: 'Glacial Ridge Technologies'
 
@@ -10270,7 +10366,7 @@ company_identifiers:
     name: 'Xicato Inc.'
 
   - value: 0x0252
-    name: 'UKC Technosolution'
+    name: 'Restar Corporation'
 
   - value: 0x0251
     name: 'Lumo Bodytech Inc.'
@@ -10352,9 +10448,6 @@ company_identifiers:
 
   - value: 0x0234
     name: 'FengFan (BeiJing) Technology Co, Ltd'
-
-  - value: 0x0233
-    name: 'Shenzhen SuLong Communication Ltd'
 
   - value: 0x0232
     name: 'x-Senso Solutions Kft'
@@ -10672,7 +10765,7 @@ company_identifiers:
     name: 'Cochlear Bone Anchored Solutions AB'
 
   - value: 0x01BA
-    name: 'Stages Cycling LLC'
+    name: 'SPIA Cycling Inc.'
 
   - value: 0x01B9
     name: 'HANA Micron'
@@ -11629,7 +11722,7 @@ company_identifiers:
     name: 'Polar Electro OY'
 
   - value: 0x006A
-    name: 'LTIMINDTREE LIMITED'
+    name: 'LTM Limited'
 
   - value: 0x0069
     name: 'A&D Engineering, Inc.'

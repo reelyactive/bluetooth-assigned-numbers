@@ -703,5 +703,11 @@ const BLUETOOTH_MEMBER_UUIDS = new Map([
 [0xfc36,"PharmaSens AG"],
 [0xfc35,"Metabowerke GmbH"],
 [0xfc34,"Mitsubishi Electric Corporation"],
-[0xfc32,"InPlay, Inc."]
+[0xfc32,"InPlay, Inc."],
+[0xfc31,"Ford Motor Company"],
+[0xfc30,"Arashi Vision Inc."],
+[0xfc2c,"Verkada Inc."],
+[0xfc2b,"Elder Technologies, Inc"],
+[0xfc2a,"Troo Corporation"],
+[0xfc29,"Google LLC"]
 ]);
